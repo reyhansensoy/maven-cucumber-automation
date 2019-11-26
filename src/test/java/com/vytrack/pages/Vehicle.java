@@ -6,6 +6,7 @@ public class Vehicle {
         System.out.println("new project!!");
         System.out.println("new code!!!!!!");
         System.out.println("I created new branch which is called tester!!!");
+        System.out.println("How to solve conflict!!!!");
     }
 
 
