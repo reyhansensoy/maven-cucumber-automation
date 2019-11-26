@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7647bed-de0f-4308-87c6-5a2f34f48ecd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/vytrack/pages/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/vytrack/pages/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -86,7 +86,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="275" />
     <option name="y" value="23" />
     <option name="width" value="1559" />
@@ -160,6 +160,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -191,14 +192,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="321" y="23" width="1367" height="1047" extended-state="0" />
+    <frame x="275" y="23" width="1559" height="1047" extended-state="0" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24981132" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2181938" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.40732986" />
